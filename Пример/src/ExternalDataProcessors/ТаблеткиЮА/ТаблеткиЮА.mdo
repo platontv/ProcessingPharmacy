@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="633c0500-6ac5-4ebd-bc93-3fafa15d04c7">
+  <producedTypes>
+    <objectType typeId="333213bd-7070-4d34-b80b-67035652af0e" valueTypeId="73c1b1fc-264e-4080-a99d-edca6895df74"/>
+  </producedTypes>
+  <name>ТаблеткиЮА</name>
+  <synonym>
+    <key>uk</key>
+    <value>Таблетки ЮА</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="9f6116a2-d1c2-4801-bb72-ed7b47c267b3"/>
+  <defaultForm>ExternalDataProcessor.ТаблеткиЮА.Form.Форма</defaultForm>
+  <forms uuid="1caf6474-17d7-4f15-8fa9-230e83f8d24d">
+    <name>Форма</name>
+    <synonym>
+      <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
